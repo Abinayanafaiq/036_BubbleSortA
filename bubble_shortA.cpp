@@ -5,3 +5,12 @@ using namespace std;
 
 
 int arr[20]
+int n;
+
+void input() {
+    int d;
+    while(true){
+        cout << "Masukan banyaknya elemnt (max 20): ";
+        cin >> n;
+    }
+}
